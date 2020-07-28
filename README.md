@@ -1,5 +1,3 @@
-![Total Eclipse Octocat](https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg)
-Hi, I'm Al 👋
 
 ## My values -> #BlackLivesMatter
 💖 Honesty and Trust<br>
