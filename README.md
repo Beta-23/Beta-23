@@ -1,5 +1,5 @@
+![Analytics Information](./img/analytics-profile.jpg)
 
-Hi, I'm Al 👋
 
 ## My values -> #BlackLivesMatter
 💖 Honesty and Trust<br>
