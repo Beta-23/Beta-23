@@ -1,5 +1,8 @@
 ![Analytics Information](./img/analytics-profile.jpg)
 
+## About Me
+As a developer, I embrace the magic of team synergy. My team is a place to test ideas, make mistakes, and motivate each other's innovations.
+
 ## My values -> #BlackLivesMatter
 💖 Honesty and Trust<br>
 🌟 Expression as authentic self<br>
@@ -17,6 +20,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
@@ -31,6 +35,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+
 
 ## How I work
 
