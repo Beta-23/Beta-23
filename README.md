@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Beta-23/Beta-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, #BlackLivesMatter
+Hi, I'm Al
 
-Here are some ideas to get you started:
+## My values
+💖 Honesty and Trust<br>
+🌟 Expression as authentic self<br>
+🍏 Beginner's mindset and curiosity<br>
+🙌 Shared norms<br>
+🚀 Connect the underrepresented
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I work
+
+## - 🔭 I’m currently working on
+
+## 🌱 I’m currently learning
+
+## Give Back
+- []()
+
+## Get in touch
+- Twitter: https://twitter.com/Al_Dominguez
+- Personal site: https://alfreddominguez.com/
+
+
+
