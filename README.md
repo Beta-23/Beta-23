@@ -1,11 +1,4 @@
-<div
- class="canva-embed"
- data-design-id="DADRCyO76i0"
- data-height-ratio="0.4815"
- style="padding:48.1481% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
-></div>
-<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADRCyO76i0&#x2F;view?utm_content=DADRCyO76i0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">GitHub Page</a> by Alfred Dominguez
+
  
 Hi, I'm Al 👋
 
@@ -15,6 +8,27 @@ Hi, I'm Al 👋
 🍏 Beginner's mindset and curiosity<br>
 🙌 Shared norms<br>
 🚀 Connect the underrepresented
+
+## Stack I work with
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/c9/c9-ar21.svg"></code>
 
 ## How I work
 
