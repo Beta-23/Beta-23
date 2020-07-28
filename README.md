@@ -1,6 +1,5 @@
 ![Analytics Information](./img/analytics-profile.jpg)
 
-
 ## My values -> #BlackLivesMatter
 💖 Honesty and Trust<br>
 🌟 Expression as authentic self<br>
