@@ -1,6 +1,4 @@
 
- ![Earth and Univers](https://www.canva.com/design/DADRCyO76i0/view?utm_content=DADRCyO76i0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
 Hi, I'm Al 👋
 
 ## My values -> #BlackLivesMatter
