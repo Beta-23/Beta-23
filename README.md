@@ -1,6 +1,11 @@
-<video width="400" controls>
-  <source href="https://www.canva.com/design/DADRCyO76i0/eVepyT8seZj9MrlTBf6Ngw/view?utm_content=DADRCyO76i0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" type="video/mp4">
-</video>
+<div
+ class="canva-embed"
+ data-design-id="DADRCyO76i0"
+ data-height-ratio="0.4815"
+ style="padding:48.1481% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADRCyO76i0&#x2F;view?utm_content=DADRCyO76i0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">GitHub Page</a> by Alfred Dominguez
  
 Hi, I'm Al 👋
 
