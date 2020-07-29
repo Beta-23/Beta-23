@@ -1,4 +1,5 @@
 # Alfred Domínguez
+[![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/alfreddominguez)](www.linkedin.com/in/alfreddominguez)  [![Mail](https://img.shields.io/badge/-alfred.dominguez@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alfred.dominguez@gmail.com)
 
 ## About Me
 As a developer, I embrace the magic of team synergy. My team is a place to test ideas, make mistakes, and motivate each other's innovations.
@@ -49,7 +50,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 - [RailsBridge](http://railsbridge.org/)
 
 ## Get in touch
-[![Mail](https://img.shields.io/badge/-alfred.dominguez@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alfred.dominguez@gmail.com)
+
 - Twitter: https://twitter.com/Al_Dominguez
 - Personal site: https://alfreddominguez.com/
 
