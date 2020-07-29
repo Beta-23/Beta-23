@@ -8,7 +8,7 @@
 As a developer, I embrace the magic of team synergy. My team is a place to test ideas, make mistakes, and motivate each other's innovations.
 
 
-## My values -> #BlackLivesMatter
+## My values | ✊🏽 BlackLivesMatter
 💖 Honesty and Trust<br>
 🌟 Expression as authentic self<br>
 🍏 Beginner's mindset and curiosity<br>
