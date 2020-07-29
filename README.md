@@ -1,7 +1,7 @@
 # Alfred Domínguez
 ![Analytics Information](./img/analytics-profile.jpg)
 
-[![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alfreddominguez/)](https://www.linkedin.com/in/alfreddominguez/) [![Twitter](https://img.shields.io/badge/-Al%20Dominguez-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Al_Dominguez)](https://twitter.com/Al_Dominguez)
+[![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alfreddominguez/)](https://www.linkedin.com/in/alfreddominguez/) [![Twitter](https://img.shields.io/badge/-Al%20Dominguez-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Al_Dominguez)](https://twitter.com/Al_Dominguez)
 
 
 ## About Me
@@ -54,7 +54,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 
 ## Get in touch
 
-- Personal site: https://alfreddominguez.com/
+  [![PersonalSite](https://img.shields.io/badge/-AD%20Portfolio-green?style=flat&logoColor=white&link=https://alfreddominguez.com/)](https://alfreddominguez.com/)
 
 
 
