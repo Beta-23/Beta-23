@@ -22,8 +22,10 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
