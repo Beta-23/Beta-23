@@ -1,7 +1,7 @@
 # Alfred Domínguez
 ![Analytics Information](./img/analytics-profile.jpg)
 
-[![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alfreddominguez/)](https://www.linkedin.com/in/alfreddominguez/)  [![Mail](https://img.shields.io/badge/-alfred.dominguez@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alfred.dominguez@gmail.com) [![Twitter](https://img.shields.io/badge/-Al%20Dominguez-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Al_Dominguez)](https://twitter.com/Al_Dominguez)
+[![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alfreddominguez/)](https://www.linkedin.com/in/alfreddominguez/) [![Twitter](https://img.shields.io/badge/-Al%20Dominguez-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Al_Dominguez)](https://twitter.com/Al_Dominguez)
 
 
 ## About Me
