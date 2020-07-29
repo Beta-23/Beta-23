@@ -1,7 +1,8 @@
-![Analytics Information](./img/analytics-profile.jpg)
+# Alfred Domínguez
 
 ## About Me
 As a developer, I embrace the magic of team synergy. My team is a place to test ideas, make mistakes, and motivate each other's innovations.
+
 
 ## My values -> #BlackLivesMatter
 💖 Honesty and Trust<br>
@@ -48,6 +49,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 - [RailsBridge](http://railsbridge.org/)
 
 ## Get in touch
+[![Mail](https://img.shields.io/badge/-alfred.dominguez@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alfred.dominguez@gmail.com)
 - Twitter: https://twitter.com/Al_Dominguez
 - Personal site: https://alfreddominguez.com/
 
