@@ -54,7 +54,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 
 ## Get in touch
 
-  [![PersonalSite](https://img.shields.io/badge/-AD%20Portfolio-green?style=flat&logoColor=white&link=https://alfreddominguez.com/)](https://alfreddominguez.com/)
+[![PersonalSite](https://img.shields.io/badge/-AD%20Portfolio-green?style=flat&logoColor=white&link=https://alfreddominguez.com/)](https://alfreddominguez.com/)
 
 
 
