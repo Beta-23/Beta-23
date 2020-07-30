@@ -1,7 +1,7 @@
 # May The Source Be With You {Open Source}
 ![Analytics Information](https://github.com/Beta-23/Beta-23/blob/master/img/collaboration.png)
 
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Beta-23)](https://github.com/Beta-23)[![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alfreddominguez/)](https://www.linkedin.com/in/alfreddominguez/) [![Twitter](https://img.shields.io/badge/-Al%20Dominguez-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Al_Dominguez)](https://twitter.com/Al_Dominguez)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Beta-23)](https://github.com/Beta-23) [![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alfreddominguez/)](https://www.linkedin.com/in/alfreddominguez/) [![Twitter](https://img.shields.io/badge/-Al%20Dominguez-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Al_Dominguez)](https://twitter.com/Al_Dominguez)
 
 
 ## About Me
