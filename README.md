@@ -43,17 +43,16 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 
+##  🔭 I’m currently working on
+
+## 🌱 I’m currently learning
 
 ## How I work
 
 ---
 
-<img align="left" alt="Beta-23 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Beta-23&show_icons=true&hide_border=true" />
+<img align="left" alt="Beta-23 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Beta-23&show_icons=true&hide_border=true&hide=contribs&theme=highcontrast" />
 
-
-##  🔭 I’m currently working on
-
-## 🌱 I’m currently learning
 
 ## Give Back
 - [Kapor Center](https://www.kaporcenter.org)
