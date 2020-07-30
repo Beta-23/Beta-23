@@ -46,6 +46,11 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 
 ## How I work
 
+---
+
+<img align="left" alt="Beta-23 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Beta-23&show_icons=true&hide_border=true" />
+
+
 ##  🔭 I’m currently working on
 
 ## 🌱 I’m currently learning
