@@ -15,7 +15,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 🙌 Shared norms<br>
 🚀 Connect the underrepresented
 
-## Stack I work with
+## Languages | Frameworks | Business Tools I work with
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
