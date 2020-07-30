@@ -14,7 +14,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
  🌟 Expression as authentic self<br>
  🍏 Beginner's mindset and curiosity<br>
  🙌 Shared norms<br>
- 🚀 Connect the underrepresented
+ 🚀 Connect the underrepresented<br>
 
 ## Languages | Frameworks | Business Tools I work with
 
