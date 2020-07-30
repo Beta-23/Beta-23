@@ -51,7 +51,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 
 ---
 
-<img align="left" alt="Beta-23 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Beta-23&show_icons=true&hide_border=true&hide=contribs&theme=highcontrast" />
+<img align="left" alt="Beta-23 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Beta-23&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" />
 
 
 ## Give Back
