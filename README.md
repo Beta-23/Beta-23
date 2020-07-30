@@ -1,4 +1,4 @@
-# Alfred Domínguez
+# May The Source Be With You {Open Source}
 ![Analytics Information](https://github.com/Beta-23/Beta-23/blob/master/img/collaboration.png)
 
 [![Linkedin](https://img.shields.io/badge/-Alfred%20Dominguez-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alfreddominguez/)](https://www.linkedin.com/in/alfreddominguez/) [![Twitter](https://img.shields.io/badge/-Al%20Dominguez-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Al_Dominguez)](https://twitter.com/Al_Dominguez)
@@ -47,13 +47,6 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 
 ## 🌱 I’m currently learning
 
-## How I work
-
----
-
-<img align="left" alt="Beta-23 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Beta-23&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" />
-
-
 ## Give Back
 - [Kapor Center](https://www.kaporcenter.org)
 - [RailsBridge](http://railsbridge.org/)
@@ -62,5 +55,8 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 
 [![PersonalSite](https://img.shields.io/badge/-AD%20Portfolio-green?style=flat&logoColor=white&link=https://alfreddominguez.com/)](https://alfreddominguez.com/)
 
+## How I work
 
+---
 
+<img align="left" alt="Beta-23 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Beta-23&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" />
