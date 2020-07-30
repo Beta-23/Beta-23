@@ -9,12 +9,12 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 
 
 ## My values | ✊🏽 BlackLivesMatter
-<a href="https://github.com/Beta-23"><img align="left" width="150" height="150" src="https://github.com/Beta-23/Beta-23/blob/master/img/daftpunktocat-thomas.gif?raw=true"></a>
-💖 Honesty and Trust<br>
-🌟 Expression as authentic self<br>
-🍏 Beginner's mindset and curiosity<br>
-🙌 Shared norms<br>
-🚀 Connect the underrepresented
+<a href="https://github.com/Beta-23"><img align="left" width="150" height="150" src="https://github.com/Beta-23/Beta-23/blob/master/img/daftpunktocat-thomas.gif?raw=true"></a> <br />
+ 💖 Honesty and Trust<br>
+ 🌟 Expression as authentic self<br>
+ 🍏 Beginner's mindset and curiosity<br>
+ 🙌 Shared norms<br>
+ 🚀 Connect the underrepresented
 
 ## Languages | Frameworks | Business Tools I work with
 
