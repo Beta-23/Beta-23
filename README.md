@@ -43,6 +43,9 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 
+## Coding Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beta-23)](https://github.com/Beta-23/github-readme-stats)
+
 ##  🔭 I’m currently working on
 
 ## 🌱 I’m currently learning
