@@ -43,7 +43,6 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 <code><img alt="Cloud9" height="40" src="https://www.vectorlogo.zone/logos/c9/c9-ar21.svg"></code>
 <code><img alt="Yarn" height="40" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 <code><img alt="NPM" height="40" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-<code><img alt="Jira" height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 
 ## Coding Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beta-23&layout=compact)](https://github.com/Beta-23/github-readme-stats)
