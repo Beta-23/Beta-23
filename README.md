@@ -50,6 +50,7 @@ As a developer, I embrace the magic of team synergy. My team is a place to test 
 ##  🔭 I’m currently working on
 
 ## 🌱 I’m currently learning
+<code><img alt="React Native" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img alt="GraphQL" height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 <code><img alt="Deno" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"></code>
 
